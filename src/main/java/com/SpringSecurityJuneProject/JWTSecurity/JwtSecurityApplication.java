@@ -9,7 +9,7 @@ public class JwtSecurityApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(JwtSecurityApplication.class, args);
-		System.out.println("Project Started >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+		System.out.println("Project Started after commit +++++++++++++++++++++++++");
 	}
 
 }
